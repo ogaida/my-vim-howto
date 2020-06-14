@@ -1,4 +1,4 @@
-Copying and cutting in normal mode
+# Copying and cutting in normal mode
 
 In normal mode, one can copy (yank) with y{motion}, where {motion} is a Vim motion. For example, yw copies to the beginning of the next word. Other helpful yanking commands include:
 
@@ -15,4 +15,4 @@ Cutting can be done using d{motion}, including:
 
 To copy into a register, one can use "{register} immediately before one of the above commands to copy into the register {register}. See pasting registers for more information on register syntax.
 
-Quelle: [https://vim.fandom.com/wiki/Copy,_cut_and_paste?action=edit&section=1&veaction=edit]{https://vim.fandom.com/wiki/Copy,_cut_and_paste?action=edit&section=1&veaction=edit}
+Quelle: [https://vim.fandom.com/wiki/Copy,_cut_and_paste?action=edit&section=1&veaction=edit](https://vim.fandom.com/wiki/Copy,_cut_and_paste?action=edit&section=1&veaction=edit)
