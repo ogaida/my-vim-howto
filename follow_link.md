@@ -16,4 +16,4 @@ go with the cursor on the link and press F3, look what you see...
 
 If the webservers would response in markdown format, it would be easy to read the content in vim.
 
-[![asciicast](https://asciinema.org/a/qgMqBGkubugHd5L03UgXmjffa.svg)](https://asciinema.org/a/qgMqBGkubugHd5L03UgXmjffa)
+[![asciicast](https://asciinema.org/a/QjI8kDLQobmwBNjq5ACEpQ3fD.svg)](https://asciinema.org/a/QjI8kDLQobmwBNjq5ACEpQ3fD)
