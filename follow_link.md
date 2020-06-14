@@ -12,4 +12,4 @@ than create a mapping for F3:
 
 go with the cursor on the link and press F3
 
-
+If the webservers would response in markdown format, it would be easy to read the content in vim.
