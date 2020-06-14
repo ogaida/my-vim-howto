@@ -14,6 +14,4 @@ go with the cursor on the link and press F3
 
 If the webservers would response in markdown format, it would be easy to read the content in vim.
 
-https://asciinema.org/a/qgMqBGkubugHd5L03UgXmjffa
-
-<script id="asciicast-qgMqBGkubugHd5L03UgXmjffa" src="https://asciinema.org/a/qgMqBGkubugHd5L03UgXmjffa.js" async></script>
+[![asciicast](https://asciinema.org/a/qgMqBGkubugHd5L03UgXmjffa.svg)](https://asciinema.org/a/qgMqBGkubugHd5L03UgXmjffa)
